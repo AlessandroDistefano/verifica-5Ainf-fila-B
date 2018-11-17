@@ -14,10 +14,10 @@ Eseguite le seguenti operazioni:
 - [x] navigate nella cartella `~/Documents/<classe>/<cognome>` con il comando `cd` (change directory), creando la cartella se necessario
 - [x] scaricate il progetto con `git clone <URL-vostro-repo>`
 - [x] navigate nella cartella appena creata
-- [ ] aprite Esplora Risorse
-- [ ] navigate nel repository scaricato ed aprite il file `design/wireframe.png`
-- [ ] aprite Eclipse
-- [ ] importate il progetto con `File->Import->General->Existing Project Into Workspace` e **selezionate la cartella `code`**
+- [x] aprite Esplora Risorse
+- [x] navigate nel repository scaricato ed aprite il file `design/wireframe.png`
+- [x] aprite Eclipse
+- [x] importate il progetto con `File->Import->General->Existing Project Into Workspace` e **selezionate la cartella `code`**
 - [ ] implementate nel progetto Eclipse il wireframe appena aperto (vedi note sotto)
 
 Quando avete finito e **comunque 7 minuti prima** dello scadere del tempo (vi verrà ricordato dal docente), dovete pubblicare il codice seguendo la procedura:
