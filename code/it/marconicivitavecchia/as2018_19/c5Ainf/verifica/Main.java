@@ -10,20 +10,17 @@ public class Main extends JFrame {
 	public Main() {
 		super("Verifica in laboratorio");
 		super.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-		
-		// TODO Inserire la size in accordo con il wireframe (valori approssimati)
 		super.setSize(250,500);
-		
-		// TODO Usare StringBuilder per costruire la stringa HTML
-		
-		// TODO Creare la stringa HTML per il wireframe
-		
-		// TODO Convertire lo StringBuilder in String
-		
-		// TODO Assegnare correttamente la stringa create a JLabel
-		super.add(new JLabel(__TODO__));
+		super.add(new JLabel(sb));
 		super.setVisible(true);
-		 
+		StringBuilder sb = new StringBuilder();
+		sb.append("<html>");
+		sb.append("<body>");
+		sb.append("<h1>SpeedTest</h1>");
+		sb.append("<table>");
+		sb.append("<tr>");
+		sb.append("<td>Date<td>");
+		sb.append("<td>Up<td>");
 		System.out.println("Verifica Swing-GitHub");
 		
 		
